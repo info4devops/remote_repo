@@ -1,1 +1,2 @@
 First Line in file1.txt by Dev-A
+Second Line added in file1.txt by Dev-B
